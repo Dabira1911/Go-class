@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+
+<html>
+<head>
+<title> Dab's web page </title>
+</head>
+
+<body>
+<h1> <b> SAY </b> </h1>
+<pre>                 I've been feeling like it's impossible to say it all
+                    And I'm losing all control
+                   'Cause I wish that I could break the fall and save it all
+                    But I've been holding it too close
+                    Wish I knew what you're thinking
+                    Words don't come that easy
+                    We might be broken by design
+</pre>
+<hr>
+<h2 title=> verse 2 of the song </h2>
+<p> I can't help how I'm feeling
+Scared of my own reasons
+<br>I don't wanna waste your time<br>
+Searching for another way
+<br>Another way, another way
+To keep her safe another day
+</p>
+<hr>
+<br> <p style="colour:purple;"> this is my favourite colour </p>
+<br> <p style="font-family:courier;"> i wish my hand writing was this pretty </p>
+<br> <p style="font-size:160%;"> i am always moody and i hate it </p>
+  <p> <strong> i am important </strong> 
+      <br> <i> i think they are all tired of me but i don't blame them </i>
+ <br> <em> i know what i am </em>
+<br> <small> ihm </small> </p>
+<br> 
+ <p style="text-align:center;"> <abbr> ibyr? </abbr> </p>
+<p> <a href="https://genius.com/Ruel-say-lyrics/> the original song </p>
+</body>
